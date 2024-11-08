@@ -1,0 +1,30 @@
+C:\Users\429197-1\source\repos\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\429197-1\source\repos\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\429197-1\source\repos\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\429197-1\source\repos\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\429197-1\source\repos\Practice\Practice\obj\Debug\Practice.Login.resources
+C:\Users\429197-1\source\repos\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\429197-1\source\repos\Practice\Practice\obj\Debug\Practice.ShopBase.resources
+C:\Users\429197-1\source\repos\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\429197-1\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\429197-1\source\repos\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\429197-1\source\repos\Practice\Practice\obj\Debug\Practice.pdb
+E:\Учебная Практика\Practice\Practice\bin\Debug\Practice.exe.config
+E:\Учебная Практика\Practice\Practice\bin\Debug\Practice.exe
+E:\Учебная Практика\Practice\Practice\bin\Debug\Practice.pdb
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.Login.resources
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.ShopBase.resources
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.exe
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.pdb
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.AddForms.AppProductForm.resources
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.UpdateForms.UpdateProducts.resources
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.AddForms.AddClientForm.resources
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.UpdateForms.UpdateClientsForm.resources
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.AddForms.AddSalesForm.resources
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.UpdateForms.UpdateSalesForm.resources
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.AddForms.AddRoleForm.resources
+E:\Учебная Практика\Practice\Practice\obj\Debug\Practice.UpdateForms.UpdateRoleForm.resources
